@@ -2,3 +2,12 @@ __pycache__/
 .vscode/
 fielding_dissertation.pdf
 
+
+*.db
+*.log
+*.sqlite
+*.csv
+*.tsv
+*.json
+*.xml
+*.zip

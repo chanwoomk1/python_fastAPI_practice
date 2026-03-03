@@ -1,0 +1,1 @@
+project_path = '/Users/chanwoo/Desktop/python_multithread'
