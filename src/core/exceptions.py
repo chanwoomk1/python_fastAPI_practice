@@ -14,3 +14,4 @@ class StudentNotFoundException(BaseAppException):
             status_code=404
         )
 
+
