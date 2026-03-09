@@ -10,3 +10,7 @@ CREATE TABLE student_stats (
     gaming_hours REAL NOT NULL,
     sleep_hours REAL NOT NULL
 );
+
+% fastapi dev src/main.py  
+
+sqlite3
